@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyArCreriCx-FHLm7vCO9OE0Q70hfk9AeA8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1054463436492</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterApplication1.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>depotautohub-49bff</string>
+	<key>STORAGE_BUCKET</key>
+	<string>depotautohub-49bff.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1054463436492:ios:2d6e93291b4ab2378f8469</string>
+	<key>DATABASE_URL</key>
+	<string>https://depotautohub-49bff-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

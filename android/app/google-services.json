@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1054463436492",
+    "firebase_url": "https://depotautohub-49bff-default-rtdb.firebaseio.com",
+    "project_id": "depotautohub-49bff",
+    "storage_bucket": "depotautohub-49bff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054463436492:android:db8b27421f6fe1328f8469",
+        "android_client_info": {
+          "package_name": "com.example.depotapp10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnPLNzcdEFWZ79peryOnSx2-tsa9mgEac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054463436492:android:4d6e49920a2f07de8f8469",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnPLNzcdEFWZ79peryOnSx2-tsa9mgEac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
